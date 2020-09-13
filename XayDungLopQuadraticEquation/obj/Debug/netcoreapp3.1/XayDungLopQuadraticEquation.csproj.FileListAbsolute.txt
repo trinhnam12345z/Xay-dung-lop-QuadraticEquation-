@@ -1,0 +1,13 @@
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.csprojAssemblyReference.cache
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.AssemblyInfoInputs.cache
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.AssemblyInfo.cs
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.csproj.CoreCompileInputs.cache
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.exe
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.deps.json
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.runtimeconfig.json
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.runtimeconfig.dev.json
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.dll
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\bin\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.pdb
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.dll
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.pdb
+E:\BT C#\XayDungLopQuadraticEquation\XayDungLopQuadraticEquation\obj\Debug\netcoreapp3.1\XayDungLopQuadraticEquation.genruntimeconfig.cache
